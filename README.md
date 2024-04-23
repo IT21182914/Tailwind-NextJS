@@ -1,1 +1,1 @@
-# Tailwind-NextJS
+# Tailwind-NextJS Learn
